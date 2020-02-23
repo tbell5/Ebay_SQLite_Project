@@ -1,4 +1,4 @@
-# about
+# About
 This project, originally completed for UW class CS564--Database Management Systems, is meant to demonstrate basic proficiency in building/querying SQL relations. In it, we formed an SQL database for Ebay auctions data, which was initially provided by a JSON file dump. We then wrote a series of SQLite queries to test and examine the data. 
 
 Tools/techniques used in this Project:
